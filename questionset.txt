@@ -1,0 +1,20 @@
+What is the C++ OOPs concept?
+When is void() return type used?
+What is call by value and call by reference in C++?
+What is an inline function?
+What are pointers in C++?
+What is a scope resolution operator?
+What should be the output of the following C++ program?
+Which among the following operators cannot be overloaded?
+Discuss the difference between prefix and postfix?
+What is std in C++?
+How is struct different from class?
+What do you understand about polymorphism in C++?
+What is a constructor in C++?
+What is a virtual function?
+What is an abstraction in C++?
+What are destructors in C++?
+What is an abstract class? When is it used?
+What is the C++ OOPs concept?
+What is an inline function?
+What is call by value and call by reference in C++?
